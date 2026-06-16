@@ -71,4 +71,7 @@ class BetterSolution:
             if current_sum < 0:
                 current_sum = 0
                 
-        return max_sum
+        print(max_sum)
+    
+gang = BetterSolution()
+gang.maxSubarraySum([-1,-3,-4])
