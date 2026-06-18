@@ -27,5 +27,5 @@ class Solution:
             
                     
 gang = Solution()
-print(gang.romanToInt("MCMXCIV"))
+print(gang.romanToInt("MMVIII"))
             
